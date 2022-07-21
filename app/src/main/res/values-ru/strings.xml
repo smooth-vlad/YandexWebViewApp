@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="exit_confirmation_text">Вы уверены, что хотите выйти?</string>
+    <string name="exit_confirmation_confirm">Да</string>
+    <string name="exit_confirmation_cancel">Отмена</string>
+</resources>
